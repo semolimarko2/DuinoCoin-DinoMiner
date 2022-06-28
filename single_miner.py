@@ -7,7 +7,7 @@ import requests
 
 VER = '1.2'
 WORKER = f'ID{randint(1001, 9998)}'
-USERNAME = 'corneliustantius'
+USERNAME = 'semih55'
 DIFFICULTY = 'MEDIUM'
 PORT_URL = 'https://server.duinocoin.com/getPool'
 DEFAULT_NODE = ('server.duinocoin.com', 2813)
